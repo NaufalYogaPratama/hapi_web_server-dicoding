@@ -19,12 +19,12 @@ hapi-web-server adalah server yang menyediakan beberapa rute dasar untuk menanga
 1. Clone repositori ini ke mesin lokal Anda:
    ```bash
    git clone <URL_REPOSITORI>
-2. Masuk ke dirktori proyek:
+2. Masuk ke direktori proyek:
    ```bash
    cd hapi-web-server
 3. Install depedensi:
    ```bash
-   npm insatall
+   npm install
 Aplikasi akan berjalan pada `http://localhost:9000`
 
 ## Menjalankan Server
